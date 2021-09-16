@@ -2,7 +2,7 @@
 baseURL = "https://wine.cfp.begyn.be/"
 languageCode = "en-us"
 title = "Local wine producer"
-theme = "restaurant-hugo"
+theme = "local-distributor"
 summaryLength = "10"
 paginate = 4
 
