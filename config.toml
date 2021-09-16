@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.cfp.begyn.be/"
+baseURL = "https://wine.cfp.begyn.be/"
 languageCode = "en-us"
 title = "Local wine producer"
 theme = "restaurant-hugo"
