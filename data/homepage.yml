@@ -1,7 +1,7 @@
 ################## Hero area ##################
 hero_area:
   enable : true
-  bg_image : "images/vineyard-header.png"
+  bg_image : "images/test-header.png"
   overlay : true
 
 ################### Gallery ###################
