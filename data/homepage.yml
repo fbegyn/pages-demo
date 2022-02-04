@@ -1,7 +1,7 @@
 ################## Hero area ##################
 hero_area:
   enable : true
-  bg_image : "images/test-header.png"
+  bg_image : "images/test-header.jpg"
   overlay : true
 
 ################### Gallery ###################
